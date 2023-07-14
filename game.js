@@ -10,23 +10,23 @@ if(p1==1)
 }
 else if (p1==2)
 {
-    img1.setAttribute("src","images\dice1.png");
+    img1.setAttribute("src","images/dice1.png");
 }
 else if (p1==3)
 {
-    img1.setAttribute("src","images\dice1.png");
+    img1.setAttribute("src","images/dice1.png");
 }
 else if (p1==4)
 {
-    img1.setAttribute("src","images\dice1.png");
+    img1.setAttribute("src","images/dice1.png");
 }
 else if (p1==5)
 {
-    img1.setAttribute("src","images\dice1.png");
+    img1.setAttribute("src","images/dice1.png");
 }
 else if (p1==6)
 {
-    img1.setAttribute("src","images\dice1.png");
+    img1.setAttribute("src","images/dice1.png");
 }
 
 if(p2==1)
