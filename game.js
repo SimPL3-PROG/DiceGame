@@ -24,11 +24,10 @@ else if (p1==5)
 {
     img1.setAttribute("src","dice5.png");
 }
-else if (p1==6)
+else if(p1==6)
 {
     img1.setAttribute("src","dice6.png");
 }
-
 if(p2==1)
 {
     img2.setAttribute("src","dice1.png");
